@@ -134,15 +134,20 @@ public class CalculatorUI {
             switch (selectedItem) {
                 case "Standard":
                     window.setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
-                    btnRoot.setVisible(false);
+                    btnRoot.setVisible(true);
                     btnPower.setVisible(false);
                     btnLog.setVisible(false);
+                    btnRoot.setVisible(true);
+                    btnRoot.setVisible(true);
+                    btnRoot.setVisible(true);
                     break;
                 case "Scientific":
                     window.setSize(WINDOW_WIDTH + 80, WINDOW_HEIGHT);
                     btnRoot.setVisible(true);
                     btnPower.setVisible(true);
                     btnLog.setVisible(true);
+                    btnRoot.setVisible(true);
+                    btnRoot.setVisible(false);
                     break;
             }
         });
