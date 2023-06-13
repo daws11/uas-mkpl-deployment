@@ -87,6 +87,12 @@ public class CalculatorUI {
                 return firstNumber + secondNumber;
             case '-':
                 return firstNumber - secondNumber;
+            case '-':
+                return firstNumber - secondNumber;
+            case '-':
+                return firstNumber - secondNumber;
+            case '-':
+                return firstNumber - secondNumber;
             case '*':
                 return firstNumber * secondNumber;
             case '/':
