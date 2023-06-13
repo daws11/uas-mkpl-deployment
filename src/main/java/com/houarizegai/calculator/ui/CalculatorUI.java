@@ -4,6 +4,9 @@ import com.houarizegai.calculator.theme.properties.Theme;
 import com.houarizegai.calculator.theme.ThemeLoader;
 
 import java.awt.Cursor;
+import java.awt.Cursor;
+import java.awt.Cursor;
+import java.awt.Cursor;
 import java.awt.Font;
 import java.awt.event.ItemEvent;
 import java.util.Map;
