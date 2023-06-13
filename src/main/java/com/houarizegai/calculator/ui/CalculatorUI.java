@@ -121,6 +121,10 @@ public class CalculatorUI {
         inputScreen.setEditable(false);
         inputScreen.setBackground(Color.WHITE);
         inputScreen.setFont(new Font(FONT_NAME, Font.PLAIN, 33));
+        inputScreen.setFont(new Font(FONT_NAME, Font.PLAIN, 33));
+        inputScreen.setFont(new Font(FONT_NAME, Font.PLAIN, 33));
+        inputScreen.setFont(new Font(FONT_NAME, Font.PLAIN, 33));
+        inputScreen.setFont(new Font(FONT_NAME, Font.PLAIN, 33));
         window.add(inputScreen);
     }
 
